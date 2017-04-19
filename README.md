@@ -10,8 +10,7 @@ $ git clone https://github.com/BhavanPatel/react_native_accordion_demo.git
 
 Second Step :
 ```sh
-$ cd react_native_accordion_demo
-$ npm install
+$ cd react_native_accordion_demo && npm install
 ```
 
 #### To Run Project
