@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import Main from './src/Main.js';
+import Proto from './src/index.js';
 
-AppRegistry.registerComponent('Example', () => Main);
+AppRegistry.registerComponent('Example', () => Proto);
